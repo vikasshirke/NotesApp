@@ -1,4 +1,4 @@
-# 📒 NotesAppMVVM
+# 📒 NotesApp
 
 A simple **Notes Taking App** built with **MVVM architecture** using Room, LiveData, ViewModel, and RecyclerView.  
 This app demonstrates clean architecture for Android with full CRUD (Create, Read, Update, Delete) functionality.
